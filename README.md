@@ -104,7 +104,7 @@ A spoken presentation walkthrough is available in [DEMO_SCRIPT.txt](file:///c:/P
 1. Create a new repo at https://github.com/new
    - Name: loka
    - Visibility: Public or Private
-   - Do NOT initialize with README (you already have one)
+   - Do NOT initialize with README 
 
 2. In your terminal, navigate into your project folder:
    cd loka
