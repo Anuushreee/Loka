@@ -81,8 +81,11 @@ graph TD
 * **Check**: Verify that the second draft itinerary contains mid-range hotel listings.
 
 ## Assets
-* **Architecture Diagram**: [architecture_diagram.png](file:///c:/Projects/KaggleCapstone/loka/assets/architecture_diagram.png)
-* **Cover Banner**: [cover_page_banner.png](file:///c:/Projects/KaggleCapstone/loka/assets/cover_page_banner.png)
+### Architecture Diagram
+![Architecture Diagram](assets/architecture_diagram.png)
+
+### Cover Banner
+![Cover Banner](assets/cover_page_banner.png)
 
 ## Demo Script
 A spoken presentation walkthrough is available in [DEMO_SCRIPT.txt](file:///c:/Projects/KaggleCapstone/loka/DEMO_SCRIPT.txt).
